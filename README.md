@@ -21,7 +21,7 @@ A Company uses this predictive analysis to measure how many employees they will 
 
 6. Work_accident: Whether the employee had a workplace accident.
 
-7.left: Whether the employee left the workplace or not {0, 1}.
+7. left: Whether the employee left the workplace or not {0, 1}.
 
 8. promotion_last_5years: Whether the employee was promoted in the last five years.
 
