@@ -29,6 +29,4 @@ A Company uses this predictive analysis to measure how many employees they will 
 
 10. salary: Relative level of salary {low, medium, high}.
 
-Dependent variable : 'left'
 
-Independent variable : 'satisfaction_level', 'last_evaluation', 'number_project', 'average_montly_hours', 'time_spend_company', 'Work_accident', 'promotion_last_5years', 'sales', 'salary'
