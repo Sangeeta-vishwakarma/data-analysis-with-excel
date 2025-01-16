@@ -1,13 +1,13 @@
 ## data-analysis-with-excel
-Employee Turnover Prediction using Data Analysis in Excel:
+Employee Turnover Analysis using Data Analysis in Excel:
 
-This project analyzes employee data using Excel to identify key factors contributing to turnover. By leveraging statistical analysis, pivot tables, and data visualization techniques, it provides actionable insights to reduce attrition and improve employee retention strategies.
+This project analyzes employee data using Excel to identify key factors contributing to turnover. By leveraging statistical analysis, pivot tables, and data visualization techniques, it provides actionable insights in order to reduce attrition and improve employee retention strategies.
 ![Employee](https://github.com/user-attachments/assets/8310f621-65de-4b96-8d11-4884623102eb)
 Dataset size : 554KB Rows: 15000 columns: 10
 
-Employee Turnover or Employee Turnover ratio is the measurement of the total number of employees who leave an organization in a particular year. Employee Turnover Prediction means to predict whether an employee is going to leave the organization in the coming period.
+Employee Turnover or Employee Turnover ratio is the measurement of the total number of employees who leave an organization in a particular year. Employee Turnover Analysis going to tell you what are the possibiliteis and reasons , employees leaving the organization.
 
-A Company uses this predictive analysis to measure how many employees they will need if the potential employees will leave their organization. A company also uses this predictive analysis to make the workplace better for employees by understanding the core reasons for the high turnover ratio.
+A Company uses this analysis to measure how many employees they will need if the potential employees will leave their organization. A company also uses this analysis to make the workplace better for employees by understanding the core reasons for the high turnover ratio.
 
 1. satisfaction_level: Level of satisfaction {0–1}.
 
